@@ -1,0 +1,27 @@
+{
+  "name": "seattle-onsite-2025",
+  "version": "1.0.0",
+  "description": "🎸 Groovy 70s themed website for Sales Cloud UX Seattle onsite event",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "keywords": [
+    "70s",
+    "retro",
+    "website",
+    "salesforce",
+    "ux",
+    "onsite",
+    "seattle"
+  ],
+  "author": "Sales Cloud UX Team",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
